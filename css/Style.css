@@ -1,0 +1,45 @@
+﻿body {
+}
+
+/*#######################################NAVBAR###################*/
+
+.dropdown{
+            position: relative;
+          display: inline-block;
+        }
+
+        .dropdown-menu{
+            display: none;
+          position: absolute;
+          z-index: 1;
+        }
+
+        .dropdown-menu a {
+          display: block;
+        }
+
+
+        .dropdown:hover .dropdown-menu {
+          display: block;
+        }
+
+
+
+
+
+
+/*##########################FOOTER###############################*/
+footer{
+    background: black;
+    color: white;
+    padding: 9px 20px;
+}
+
+.center{
+    text-align: center;
+}    
+
+
+
+
+
